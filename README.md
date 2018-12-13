@@ -10,9 +10,9 @@ OpenCV_For_Unity is the VS project for compiling the DLL, which is then included
 mixcast-vision-unity is a Unity project that demonstrates usage of the DLL for facial recognition
 
 This project implements this tutorial series by Thomas Mountainborn, and extends it to demonstrate passing a byte array pointer in order to output the OpenCV feed in a Unity scene:
-[Part one: Install] (http://thomasmountainborn.com/2016/09/11/unity-and-opencv-part-one-install/)
-[Part two: Project setup] (http://thomasmountainborn.com/2016/09/12/unity-and-opencv-part-two-project-setup/)
-[Part three: Passing detection data to Unity] (http://thomasmountainborn.com/2017/03/05/unity-and-opencv-part-three-passing-detection-data-to-unity/)
+<http://thomasmountainborn.com/2016/09/11/unity-and-opencv-part-one-install/>
+<http://thomasmountainborn.com/2016/09/12/unity-and-opencv-part-two-project-setup/>
+<http://thomasmountainborn.com/2017/03/05/unity-and-opencv-part-three-passing-detection-data-to-unity/>
 
 It also provide handling for unplugging and plugging back in devices (hotswapping).
 
