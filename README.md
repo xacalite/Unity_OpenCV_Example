@@ -1,7 +1,7 @@
 # Unity_OpenCV_Example
 Demo project demonstrating a DLL interop interface for accessing OpenCV C++ in Unity/C#
 
-##Overview:
+## Overview:
 
 This is an example project OpenCV C++ (V4.0.0) compiled, included, and accessed as a dynamic library in Unity.
 
@@ -20,10 +20,10 @@ This project implements this tutorial series by Thomas Mountainborn, and extends
 
 It also provide handling for unplugging and plugging back in devices (hotswapping).
 
-##Notes:
+## Notes:
 -currently the DLL must be built as Release, and the Unity project will only build for x64
 -the lbpcascade_frontface.xml file must be included in the build folder for the demo build to work
 
-##To-do:
+## To-do:
 -there is currently a delay (freeze of the Unity scene) when hotswapping. This should be fixed by multithreading the code in Update()
 
