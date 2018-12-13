@@ -7,7 +7,7 @@ This is an example project OpenCV C++ (V4.0.0) compiled, included, and accessed 
 
 OpenCV_For_Unity is the VS project for compiling the DLL, which is then included in the Unity project.
 
-mixcast-vision-unity is a Unity project that demonstrates usage of the DLL for facial recognition
+Unity_OpenCV_Demo is a Unity project that demonstrates usage of the DLL for facial recognition
 
 This project implements this tutorial series by Thomas Mountainborn, and extends it to demonstrate passing a byte array pointer in order to output the OpenCV feed in a Unity scene:
 
