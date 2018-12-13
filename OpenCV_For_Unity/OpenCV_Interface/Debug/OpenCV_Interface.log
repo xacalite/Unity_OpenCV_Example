@@ -1,0 +1,4 @@
+﻿  FaceDetection.cpp
+c:\blueprintreality\unity_opencv_example\opencv_for_unity\opencv_interface\facedetection.cpp(66): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\blueprintreality\unity_opencv_example\opencv_for_unity\opencv_interface\facedetection.cpp(67): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+opencv_world400d.lib(opencv_world400d.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'
